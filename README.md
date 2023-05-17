@@ -1,1 +1,1 @@
-# CodeClause_MArketBasketAnalysis-UsingAprioriAlgorithm
+# CodeClause_MarketBasketAnalysis-UsingAprioriAlgorithm
